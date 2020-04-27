@@ -9,6 +9,7 @@
 /bin/
 /Cplusplus/out/ 
 /Basics/Code/out/ 
+/[Oo]ut/
 
 # Visual Studio cache directory
 .vs/
