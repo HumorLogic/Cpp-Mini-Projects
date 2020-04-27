@@ -10,6 +10,7 @@
 /Cplusplus/out/ 
 /Basics/Code/out/ 
 /[Oo]ut/
+/[Pp]rojects/out/
 
 # Visual Studio cache directory
 .vs/
